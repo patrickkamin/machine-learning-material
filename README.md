@@ -2,7 +2,7 @@
 
 ## Online courses
 
-* [MITOpenCourseware (ArtificialIntelligence)](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience&spec=artificialintelligence) --- Free online courses about Artificial Intelligence at the Massachusetts Institute of Technology.
+* [MITOpenCourseware (Artificial Intelligence)](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience&spec=artificialintelligence) --- Free online courses about Artificial Intelligence at the Massachusetts Institute of Technology.
 
 * [Coursera (Machine Learning)](https://www.coursera.org/browse/data-science/machine-learning) --- Coursera machine learning courses. How to use Coursera for free: First, you have to register. Then, you enroll in a course by using the "audit option". Read more about it [here](https://learner.coursera.help/hc/en-us/articles/209818613-Enrollment-options).
 
